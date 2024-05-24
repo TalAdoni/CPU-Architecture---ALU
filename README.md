@@ -1,4 +1,3 @@
-# CPU-Architecture---ALU
 # Lab 1: ALU Implementation in VHDL
 
 This project implements an Arithmetic Logic Unit (ALU) using three units: Shifter, Boolean, and Arithmetic.
